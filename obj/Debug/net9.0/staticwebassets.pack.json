@@ -1,0 +1,81 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\nephi\\OneDrive\\Desktop\\C#\\projects\\MovieFinder\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\nephi\\OneDrive\\Desktop\\C#\\projects\\MovieFinder\\wwwroot\\uploads\\frames\\frame0.jpg",
+      "PackagePath": "staticwebassets\\uploads\\frames\\frame0.jpg"
+    },
+    {
+      "Id": "C:\\Users\\nephi\\OneDrive\\Desktop\\C#\\projects\\MovieFinder\\wwwroot\\uploads\\frames\\frame1.jpg",
+      "PackagePath": "staticwebassets\\uploads\\frames\\frame1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\nephi\\OneDrive\\Desktop\\C#\\projects\\MovieFinder\\wwwroot\\uploads\\frames\\frame10.jpg",
+      "PackagePath": "staticwebassets\\uploads\\frames\\frame10.jpg"
+    },
+    {
+      "Id": "C:\\Users\\nephi\\OneDrive\\Desktop\\C#\\projects\\MovieFinder\\wwwroot\\uploads\\frames\\frame11.jpg",
+      "PackagePath": "staticwebassets\\uploads\\frames\\frame11.jpg"
+    },
+    {
+      "Id": "C:\\Users\\nephi\\OneDrive\\Desktop\\C#\\projects\\MovieFinder\\wwwroot\\uploads\\frames\\frame2.jpg",
+      "PackagePath": "staticwebassets\\uploads\\frames\\frame2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\nephi\\OneDrive\\Desktop\\C#\\projects\\MovieFinder\\wwwroot\\uploads\\frames\\frame3.jpg",
+      "PackagePath": "staticwebassets\\uploads\\frames\\frame3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\nephi\\OneDrive\\Desktop\\C#\\projects\\MovieFinder\\wwwroot\\uploads\\frames\\frame4.jpg",
+      "PackagePath": "staticwebassets\\uploads\\frames\\frame4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\nephi\\OneDrive\\Desktop\\C#\\projects\\MovieFinder\\wwwroot\\uploads\\frames\\frame5.jpg",
+      "PackagePath": "staticwebassets\\uploads\\frames\\frame5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\nephi\\OneDrive\\Desktop\\C#\\projects\\MovieFinder\\wwwroot\\uploads\\frames\\frame6.jpg",
+      "PackagePath": "staticwebassets\\uploads\\frames\\frame6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\nephi\\OneDrive\\Desktop\\C#\\projects\\MovieFinder\\wwwroot\\uploads\\frames\\frame7.jpg",
+      "PackagePath": "staticwebassets\\uploads\\frames\\frame7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\nephi\\OneDrive\\Desktop\\C#\\projects\\MovieFinder\\wwwroot\\uploads\\frames\\frame8.jpg",
+      "PackagePath": "staticwebassets\\uploads\\frames\\frame8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\nephi\\OneDrive\\Desktop\\C#\\projects\\MovieFinder\\wwwroot\\uploads\\frames\\frame9.jpg",
+      "PackagePath": "staticwebassets\\uploads\\frames\\frame9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\nephi\\OneDrive\\Desktop\\C#\\projects\\MovieFinder\\wwwroot\\uploads\\severence short clip movie - Google Search - Google Chrome 2025-03-08 02-00-55.mp4",
+      "PackagePath": "staticwebassets\\uploads\\severence short clip movie - Google Search - Google Chrome 2025-03-08 02-00-55.mp4"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.MovieFinder.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.MovieFinder.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.build.MovieFinder.props",
+      "PackagePath": "build\\MovieFinder.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.buildMultiTargeting.MovieFinder.props",
+      "PackagePath": "buildMultiTargeting\\MovieFinder.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.buildTransitive.MovieFinder.props",
+      "PackagePath": "buildTransitive\\MovieFinder.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

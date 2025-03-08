@@ -1,0 +1,1701 @@
+{
+  "Version": 1,
+  "Hash": "nInrQ1AvTCHSCifPrRDUA5W/gtTdEhJm6mL9LFzzqSA=",
+  "Source": "MovieFinder",
+  "BasePath": "_content/MovieFinder",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "MovieFinder\\wwwroot",
+      "Source": "MovieFinder",
+      "ContentRoot": "C:\\Users\\nephi\\OneDrive\\Desktop\\C#\\projects\\MovieFinder\\wwwroot\\",
+      "BasePath": "_content/MovieFinder",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\nephi\\OneDrive\\Desktop\\C#\\projects\\MovieFinder\\obj\\Debug\\net9.0\\compressed\\86vu3jg0po-gnwqvtoxav.gz",
+      "SourceId": "MovieFinder",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\nephi\\OneDrive\\Desktop\\C#\\projects\\MovieFinder\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/MovieFinder",
+      "RelativePath": "index#[.{fingerprint=gnwqvtoxav}]?.html.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\nephi\\OneDrive\\Desktop\\C#\\projects\\MovieFinder\\wwwroot\\index.html",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "spg1prk5bi",
+      "Integrity": "4I9IaRNkgchK4wXoxgHPgCtqNt/Z1UIhfTU1oazYo9Y=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\nephi\\OneDrive\\Desktop\\C#\\projects\\MovieFinder\\wwwroot\\index.html"
+    },
+    {
+      "Identity": "C:\\Users\\nephi\\OneDrive\\Desktop\\C#\\projects\\MovieFinder\\wwwroot\\index.html",
+      "SourceId": "MovieFinder",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\nephi\\OneDrive\\Desktop\\C#\\projects\\MovieFinder\\wwwroot\\",
+      "BasePath": "_content/MovieFinder",
+      "RelativePath": "index#[.{fingerprint}]?.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "gnwqvtoxav",
+      "Integrity": "NAVoJq5Gubj38qky2VrtC/SDoEUCEq+8+4FjdjGUOSI=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\index.html"
+    },
+    {
+      "Identity": "C:\\Users\\nephi\\OneDrive\\Desktop\\C#\\projects\\MovieFinder\\wwwroot\\uploads\\frames\\frame0.jpg",
+      "SourceId": "MovieFinder",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\nephi\\OneDrive\\Desktop\\C#\\projects\\MovieFinder\\wwwroot\\",
+      "BasePath": "_content/MovieFinder",
+      "RelativePath": "uploads/frames/frame0#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "l0zli570f6",
+      "Integrity": "hZrSiJ4KIY5fanpH0cWhWG31E2VGx3LYFDzPaiesHZs=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\frames\\frame0.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\nephi\\OneDrive\\Desktop\\C#\\projects\\MovieFinder\\wwwroot\\uploads\\frames\\frame1.jpg",
+      "SourceId": "MovieFinder",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\nephi\\OneDrive\\Desktop\\C#\\projects\\MovieFinder\\wwwroot\\",
+      "BasePath": "_content/MovieFinder",
+      "RelativePath": "uploads/frames/frame1#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "6k1tljz35h",
+      "Integrity": "2gGUc3tVcWGFej4CCBZMns+k1ZeYlYtZ+Nav2KFiOmg=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\frames\\frame1.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\nephi\\OneDrive\\Desktop\\C#\\projects\\MovieFinder\\wwwroot\\uploads\\frames\\frame10.jpg",
+      "SourceId": "MovieFinder",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\nephi\\OneDrive\\Desktop\\C#\\projects\\MovieFinder\\wwwroot\\",
+      "BasePath": "_content/MovieFinder",
+      "RelativePath": "uploads/frames/frame10#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "p1suumm2y1",
+      "Integrity": "fb9+P+JQhlF8+Dm7gvfIFKKBqvD01rwtp5XDxJXM4fw=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\frames\\frame10.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\nephi\\OneDrive\\Desktop\\C#\\projects\\MovieFinder\\wwwroot\\uploads\\frames\\frame11.jpg",
+      "SourceId": "MovieFinder",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\nephi\\OneDrive\\Desktop\\C#\\projects\\MovieFinder\\wwwroot\\",
+      "BasePath": "_content/MovieFinder",
+      "RelativePath": "uploads/frames/frame11#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "0pisieyj87",
+      "Integrity": "XIjm8LRJpsSAI/VepPUhRQmVmwPQvHw9y4hgrmygGYI=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\frames\\frame11.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\nephi\\OneDrive\\Desktop\\C#\\projects\\MovieFinder\\wwwroot\\uploads\\frames\\frame2.jpg",
+      "SourceId": "MovieFinder",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\nephi\\OneDrive\\Desktop\\C#\\projects\\MovieFinder\\wwwroot\\",
+      "BasePath": "_content/MovieFinder",
+      "RelativePath": "uploads/frames/frame2#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "u2d78v8ya2",
+      "Integrity": "9iG7DvC8WC4jN9mJpEPwgma32/vuDdSqsxpg9jTftXw=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\frames\\frame2.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\nephi\\OneDrive\\Desktop\\C#\\projects\\MovieFinder\\wwwroot\\uploads\\frames\\frame3.jpg",
+      "SourceId": "MovieFinder",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\nephi\\OneDrive\\Desktop\\C#\\projects\\MovieFinder\\wwwroot\\",
+      "BasePath": "_content/MovieFinder",
+      "RelativePath": "uploads/frames/frame3#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "ynqsovywsn",
+      "Integrity": "Anbq8wNNHIiMhrUcDYKpo05Py56lIIsksCwlc9h3RvQ=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\frames\\frame3.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\nephi\\OneDrive\\Desktop\\C#\\projects\\MovieFinder\\wwwroot\\uploads\\frames\\frame4.jpg",
+      "SourceId": "MovieFinder",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\nephi\\OneDrive\\Desktop\\C#\\projects\\MovieFinder\\wwwroot\\",
+      "BasePath": "_content/MovieFinder",
+      "RelativePath": "uploads/frames/frame4#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "6i8yd8tfi3",
+      "Integrity": "csPML/oA/iTC/tDBdwfaBr6OhwotyQwa/uRRfqvQKD4=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\frames\\frame4.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\nephi\\OneDrive\\Desktop\\C#\\projects\\MovieFinder\\wwwroot\\uploads\\frames\\frame5.jpg",
+      "SourceId": "MovieFinder",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\nephi\\OneDrive\\Desktop\\C#\\projects\\MovieFinder\\wwwroot\\",
+      "BasePath": "_content/MovieFinder",
+      "RelativePath": "uploads/frames/frame5#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "ujj2pxtexr",
+      "Integrity": "evwaPy3y+M9A2CyvXfa4wbx7eI0Hr4CLn6GTs6ZoQs8=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\frames\\frame5.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\nephi\\OneDrive\\Desktop\\C#\\projects\\MovieFinder\\wwwroot\\uploads\\frames\\frame6.jpg",
+      "SourceId": "MovieFinder",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\nephi\\OneDrive\\Desktop\\C#\\projects\\MovieFinder\\wwwroot\\",
+      "BasePath": "_content/MovieFinder",
+      "RelativePath": "uploads/frames/frame6#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "yc3ws53fgr",
+      "Integrity": "Apm4CwAnRaI1b7LSHatwy+kC6QLgkzgF04zl8n+z1rk=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\frames\\frame6.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\nephi\\OneDrive\\Desktop\\C#\\projects\\MovieFinder\\wwwroot\\uploads\\frames\\frame7.jpg",
+      "SourceId": "MovieFinder",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\nephi\\OneDrive\\Desktop\\C#\\projects\\MovieFinder\\wwwroot\\",
+      "BasePath": "_content/MovieFinder",
+      "RelativePath": "uploads/frames/frame7#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "pohde9pmdy",
+      "Integrity": "N8NY1HvM8nufn2EzVElrrSt9JqW0RaKqtf6Qo+ZW7co=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\frames\\frame7.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\nephi\\OneDrive\\Desktop\\C#\\projects\\MovieFinder\\wwwroot\\uploads\\frames\\frame8.jpg",
+      "SourceId": "MovieFinder",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\nephi\\OneDrive\\Desktop\\C#\\projects\\MovieFinder\\wwwroot\\",
+      "BasePath": "_content/MovieFinder",
+      "RelativePath": "uploads/frames/frame8#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "6qc30rp3ai",
+      "Integrity": "0gBJdnxcnCWIvH95xzQ452ABcg3h8c6Ty/AhJkilGrY=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\frames\\frame8.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\nephi\\OneDrive\\Desktop\\C#\\projects\\MovieFinder\\wwwroot\\uploads\\frames\\frame9.jpg",
+      "SourceId": "MovieFinder",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\nephi\\OneDrive\\Desktop\\C#\\projects\\MovieFinder\\wwwroot\\",
+      "BasePath": "_content/MovieFinder",
+      "RelativePath": "uploads/frames/frame9#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "ymgecwujmt",
+      "Integrity": "RgjRooJsFeH2O0XJzXwlYc9dZQ9ElKIMF/e5TAV5PsA=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\frames\\frame9.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\nephi\\OneDrive\\Desktop\\C#\\projects\\MovieFinder\\wwwroot\\uploads\\severence short clip movie - Google Search - Google Chrome 2025-03-08 02-00-55.mp4",
+      "SourceId": "MovieFinder",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\nephi\\OneDrive\\Desktop\\C#\\projects\\MovieFinder\\wwwroot\\",
+      "BasePath": "_content/MovieFinder",
+      "RelativePath": "uploads/severence short clip movie - Google Search - Google Chrome 2025-03-08 02-00-55#[.{fingerprint}]?.mp4",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "vuje8mvqvd",
+      "Integrity": "+RN2RFaRiKzDPF+XlMoBC6khev8KL4xN1YXIGh+nCvk=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\severence short clip movie - Google Search - Google Chrome 2025-03-08 02-00-55.mp4"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "index.gnwqvtoxav.html",
+      "AssetFile": "C:\\Users\\nephi\\OneDrive\\Desktop\\C#\\projects\\MovieFinder\\obj\\Debug\\net9.0\\compressed\\86vu3jg0po-gnwqvtoxav.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000683526999"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1462"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"4I9IaRNkgchK4wXoxgHPgCtqNt/Z1UIhfTU1oazYo9Y=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 08 Mar 2025 02:56:32 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"NAVoJq5Gubj38qky2VrtC/SDoEUCEq+8+4FjdjGUOSI=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "gnwqvtoxav"
+        },
+        {
+          "Name": "label",
+          "Value": "index.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-NAVoJq5Gubj38qky2VrtC/SDoEUCEq+8+4FjdjGUOSI="
+        }
+      ]
+    },
+    {
+      "Route": "index.gnwqvtoxav.html",
+      "AssetFile": "C:\\Users\\nephi\\OneDrive\\Desktop\\C#\\projects\\MovieFinder\\wwwroot\\index.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4357"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"NAVoJq5Gubj38qky2VrtC/SDoEUCEq+8+4FjdjGUOSI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 08 Mar 2025 02:56:32 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "gnwqvtoxav"
+        },
+        {
+          "Name": "label",
+          "Value": "index.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-NAVoJq5Gubj38qky2VrtC/SDoEUCEq+8+4FjdjGUOSI="
+        }
+      ]
+    },
+    {
+      "Route": "index.gnwqvtoxav.html.gz",
+      "AssetFile": "C:\\Users\\nephi\\OneDrive\\Desktop\\C#\\projects\\MovieFinder\\obj\\Debug\\net9.0\\compressed\\86vu3jg0po-gnwqvtoxav.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1462"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"4I9IaRNkgchK4wXoxgHPgCtqNt/Z1UIhfTU1oazYo9Y=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 08 Mar 2025 02:56:32 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "gnwqvtoxav"
+        },
+        {
+          "Name": "label",
+          "Value": "index.html.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-4I9IaRNkgchK4wXoxgHPgCtqNt/Z1UIhfTU1oazYo9Y="
+        }
+      ]
+    },
+    {
+      "Route": "index.html",
+      "AssetFile": "C:\\Users\\nephi\\OneDrive\\Desktop\\C#\\projects\\MovieFinder\\obj\\Debug\\net9.0\\compressed\\86vu3jg0po-gnwqvtoxav.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000683526999"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1462"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"4I9IaRNkgchK4wXoxgHPgCtqNt/Z1UIhfTU1oazYo9Y=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 08 Mar 2025 02:56:32 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"NAVoJq5Gubj38qky2VrtC/SDoEUCEq+8+4FjdjGUOSI=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-NAVoJq5Gubj38qky2VrtC/SDoEUCEq+8+4FjdjGUOSI="
+        }
+      ]
+    },
+    {
+      "Route": "index.html",
+      "AssetFile": "C:\\Users\\nephi\\OneDrive\\Desktop\\C#\\projects\\MovieFinder\\wwwroot\\index.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4357"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"NAVoJq5Gubj38qky2VrtC/SDoEUCEq+8+4FjdjGUOSI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 08 Mar 2025 02:56:32 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-NAVoJq5Gubj38qky2VrtC/SDoEUCEq+8+4FjdjGUOSI="
+        }
+      ]
+    },
+    {
+      "Route": "index.html.gz",
+      "AssetFile": "C:\\Users\\nephi\\OneDrive\\Desktop\\C#\\projects\\MovieFinder\\obj\\Debug\\net9.0\\compressed\\86vu3jg0po-gnwqvtoxav.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1462"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"4I9IaRNkgchK4wXoxgHPgCtqNt/Z1UIhfTU1oazYo9Y=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 08 Mar 2025 02:56:32 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-4I9IaRNkgchK4wXoxgHPgCtqNt/Z1UIhfTU1oazYo9Y="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/frames/frame0.jpg",
+      "AssetFile": "C:\\Users\\nephi\\OneDrive\\Desktop\\C#\\projects\\MovieFinder\\wwwroot\\uploads\\frames\\frame0.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "161505"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"hZrSiJ4KIY5fanpH0cWhWG31E2VGx3LYFDzPaiesHZs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 08 Mar 2025 02:19:58 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-hZrSiJ4KIY5fanpH0cWhWG31E2VGx3LYFDzPaiesHZs="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/frames/frame0.l0zli570f6.jpg",
+      "AssetFile": "C:\\Users\\nephi\\OneDrive\\Desktop\\C#\\projects\\MovieFinder\\wwwroot\\uploads\\frames\\frame0.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "161505"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"hZrSiJ4KIY5fanpH0cWhWG31E2VGx3LYFDzPaiesHZs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 08 Mar 2025 02:19:58 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "l0zli570f6"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/frames/frame0.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-hZrSiJ4KIY5fanpH0cWhWG31E2VGx3LYFDzPaiesHZs="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/frames/frame1.6k1tljz35h.jpg",
+      "AssetFile": "C:\\Users\\nephi\\OneDrive\\Desktop\\C#\\projects\\MovieFinder\\wwwroot\\uploads\\frames\\frame1.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "167535"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"2gGUc3tVcWGFej4CCBZMns+k1ZeYlYtZ+Nav2KFiOmg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 08 Mar 2025 02:19:58 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "6k1tljz35h"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/frames/frame1.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-2gGUc3tVcWGFej4CCBZMns+k1ZeYlYtZ+Nav2KFiOmg="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/frames/frame1.jpg",
+      "AssetFile": "C:\\Users\\nephi\\OneDrive\\Desktop\\C#\\projects\\MovieFinder\\wwwroot\\uploads\\frames\\frame1.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "167535"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"2gGUc3tVcWGFej4CCBZMns+k1ZeYlYtZ+Nav2KFiOmg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 08 Mar 2025 02:19:58 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-2gGUc3tVcWGFej4CCBZMns+k1ZeYlYtZ+Nav2KFiOmg="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/frames/frame10.jpg",
+      "AssetFile": "C:\\Users\\nephi\\OneDrive\\Desktop\\C#\\projects\\MovieFinder\\wwwroot\\uploads\\frames\\frame10.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "77432"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"fb9+P+JQhlF8+Dm7gvfIFKKBqvD01rwtp5XDxJXM4fw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 08 Mar 2025 02:20:01 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-fb9+P+JQhlF8+Dm7gvfIFKKBqvD01rwtp5XDxJXM4fw="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/frames/frame10.p1suumm2y1.jpg",
+      "AssetFile": "C:\\Users\\nephi\\OneDrive\\Desktop\\C#\\projects\\MovieFinder\\wwwroot\\uploads\\frames\\frame10.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "77432"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"fb9+P+JQhlF8+Dm7gvfIFKKBqvD01rwtp5XDxJXM4fw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 08 Mar 2025 02:20:01 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "p1suumm2y1"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/frames/frame10.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-fb9+P+JQhlF8+Dm7gvfIFKKBqvD01rwtp5XDxJXM4fw="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/frames/frame11.0pisieyj87.jpg",
+      "AssetFile": "C:\\Users\\nephi\\OneDrive\\Desktop\\C#\\projects\\MovieFinder\\wwwroot\\uploads\\frames\\frame11.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "129894"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"XIjm8LRJpsSAI/VepPUhRQmVmwPQvHw9y4hgrmygGYI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 08 Mar 2025 02:20:02 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "0pisieyj87"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/frames/frame11.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-XIjm8LRJpsSAI/VepPUhRQmVmwPQvHw9y4hgrmygGYI="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/frames/frame11.jpg",
+      "AssetFile": "C:\\Users\\nephi\\OneDrive\\Desktop\\C#\\projects\\MovieFinder\\wwwroot\\uploads\\frames\\frame11.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "129894"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"XIjm8LRJpsSAI/VepPUhRQmVmwPQvHw9y4hgrmygGYI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 08 Mar 2025 02:20:02 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-XIjm8LRJpsSAI/VepPUhRQmVmwPQvHw9y4hgrmygGYI="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/frames/frame2.jpg",
+      "AssetFile": "C:\\Users\\nephi\\OneDrive\\Desktop\\C#\\projects\\MovieFinder\\wwwroot\\uploads\\frames\\frame2.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "135964"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"9iG7DvC8WC4jN9mJpEPwgma32/vuDdSqsxpg9jTftXw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 08 Mar 2025 02:19:58 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-9iG7DvC8WC4jN9mJpEPwgma32/vuDdSqsxpg9jTftXw="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/frames/frame2.u2d78v8ya2.jpg",
+      "AssetFile": "C:\\Users\\nephi\\OneDrive\\Desktop\\C#\\projects\\MovieFinder\\wwwroot\\uploads\\frames\\frame2.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "135964"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"9iG7DvC8WC4jN9mJpEPwgma32/vuDdSqsxpg9jTftXw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 08 Mar 2025 02:19:58 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "u2d78v8ya2"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/frames/frame2.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-9iG7DvC8WC4jN9mJpEPwgma32/vuDdSqsxpg9jTftXw="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/frames/frame3.jpg",
+      "AssetFile": "C:\\Users\\nephi\\OneDrive\\Desktop\\C#\\projects\\MovieFinder\\wwwroot\\uploads\\frames\\frame3.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "165832"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Anbq8wNNHIiMhrUcDYKpo05Py56lIIsksCwlc9h3RvQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 08 Mar 2025 02:19:59 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Anbq8wNNHIiMhrUcDYKpo05Py56lIIsksCwlc9h3RvQ="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/frames/frame3.ynqsovywsn.jpg",
+      "AssetFile": "C:\\Users\\nephi\\OneDrive\\Desktop\\C#\\projects\\MovieFinder\\wwwroot\\uploads\\frames\\frame3.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "165832"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Anbq8wNNHIiMhrUcDYKpo05Py56lIIsksCwlc9h3RvQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 08 Mar 2025 02:19:59 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ynqsovywsn"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/frames/frame3.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Anbq8wNNHIiMhrUcDYKpo05Py56lIIsksCwlc9h3RvQ="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/frames/frame4.6i8yd8tfi3.jpg",
+      "AssetFile": "C:\\Users\\nephi\\OneDrive\\Desktop\\C#\\projects\\MovieFinder\\wwwroot\\uploads\\frames\\frame4.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "90845"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"csPML/oA/iTC/tDBdwfaBr6OhwotyQwa/uRRfqvQKD4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 08 Mar 2025 02:19:59 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "6i8yd8tfi3"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/frames/frame4.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-csPML/oA/iTC/tDBdwfaBr6OhwotyQwa/uRRfqvQKD4="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/frames/frame4.jpg",
+      "AssetFile": "C:\\Users\\nephi\\OneDrive\\Desktop\\C#\\projects\\MovieFinder\\wwwroot\\uploads\\frames\\frame4.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "90845"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"csPML/oA/iTC/tDBdwfaBr6OhwotyQwa/uRRfqvQKD4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 08 Mar 2025 02:19:59 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-csPML/oA/iTC/tDBdwfaBr6OhwotyQwa/uRRfqvQKD4="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/frames/frame5.jpg",
+      "AssetFile": "C:\\Users\\nephi\\OneDrive\\Desktop\\C#\\projects\\MovieFinder\\wwwroot\\uploads\\frames\\frame5.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "278459"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"evwaPy3y+M9A2CyvXfa4wbx7eI0Hr4CLn6GTs6ZoQs8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 08 Mar 2025 02:19:59 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-evwaPy3y+M9A2CyvXfa4wbx7eI0Hr4CLn6GTs6ZoQs8="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/frames/frame5.ujj2pxtexr.jpg",
+      "AssetFile": "C:\\Users\\nephi\\OneDrive\\Desktop\\C#\\projects\\MovieFinder\\wwwroot\\uploads\\frames\\frame5.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "278459"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"evwaPy3y+M9A2CyvXfa4wbx7eI0Hr4CLn6GTs6ZoQs8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 08 Mar 2025 02:19:59 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ujj2pxtexr"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/frames/frame5.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-evwaPy3y+M9A2CyvXfa4wbx7eI0Hr4CLn6GTs6ZoQs8="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/frames/frame6.jpg",
+      "AssetFile": "C:\\Users\\nephi\\OneDrive\\Desktop\\C#\\projects\\MovieFinder\\wwwroot\\uploads\\frames\\frame6.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "211198"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Apm4CwAnRaI1b7LSHatwy+kC6QLgkzgF04zl8n+z1rk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 08 Mar 2025 02:20:00 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Apm4CwAnRaI1b7LSHatwy+kC6QLgkzgF04zl8n+z1rk="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/frames/frame6.yc3ws53fgr.jpg",
+      "AssetFile": "C:\\Users\\nephi\\OneDrive\\Desktop\\C#\\projects\\MovieFinder\\wwwroot\\uploads\\frames\\frame6.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "211198"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Apm4CwAnRaI1b7LSHatwy+kC6QLgkzgF04zl8n+z1rk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 08 Mar 2025 02:20:00 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "yc3ws53fgr"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/frames/frame6.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Apm4CwAnRaI1b7LSHatwy+kC6QLgkzgF04zl8n+z1rk="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/frames/frame7.jpg",
+      "AssetFile": "C:\\Users\\nephi\\OneDrive\\Desktop\\C#\\projects\\MovieFinder\\wwwroot\\uploads\\frames\\frame7.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "202195"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"N8NY1HvM8nufn2EzVElrrSt9JqW0RaKqtf6Qo+ZW7co=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 08 Mar 2025 02:20:00 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-N8NY1HvM8nufn2EzVElrrSt9JqW0RaKqtf6Qo+ZW7co="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/frames/frame7.pohde9pmdy.jpg",
+      "AssetFile": "C:\\Users\\nephi\\OneDrive\\Desktop\\C#\\projects\\MovieFinder\\wwwroot\\uploads\\frames\\frame7.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "202195"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"N8NY1HvM8nufn2EzVElrrSt9JqW0RaKqtf6Qo+ZW7co=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 08 Mar 2025 02:20:00 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "pohde9pmdy"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/frames/frame7.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-N8NY1HvM8nufn2EzVElrrSt9JqW0RaKqtf6Qo+ZW7co="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/frames/frame8.6qc30rp3ai.jpg",
+      "AssetFile": "C:\\Users\\nephi\\OneDrive\\Desktop\\C#\\projects\\MovieFinder\\wwwroot\\uploads\\frames\\frame8.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "170266"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"0gBJdnxcnCWIvH95xzQ452ABcg3h8c6Ty/AhJkilGrY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 08 Mar 2025 02:20:01 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "6qc30rp3ai"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/frames/frame8.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-0gBJdnxcnCWIvH95xzQ452ABcg3h8c6Ty/AhJkilGrY="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/frames/frame8.jpg",
+      "AssetFile": "C:\\Users\\nephi\\OneDrive\\Desktop\\C#\\projects\\MovieFinder\\wwwroot\\uploads\\frames\\frame8.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "170266"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"0gBJdnxcnCWIvH95xzQ452ABcg3h8c6Ty/AhJkilGrY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 08 Mar 2025 02:20:01 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-0gBJdnxcnCWIvH95xzQ452ABcg3h8c6Ty/AhJkilGrY="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/frames/frame9.jpg",
+      "AssetFile": "C:\\Users\\nephi\\OneDrive\\Desktop\\C#\\projects\\MovieFinder\\wwwroot\\uploads\\frames\\frame9.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "193630"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"RgjRooJsFeH2O0XJzXwlYc9dZQ9ElKIMF/e5TAV5PsA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 08 Mar 2025 02:20:01 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-RgjRooJsFeH2O0XJzXwlYc9dZQ9ElKIMF/e5TAV5PsA="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/frames/frame9.ymgecwujmt.jpg",
+      "AssetFile": "C:\\Users\\nephi\\OneDrive\\Desktop\\C#\\projects\\MovieFinder\\wwwroot\\uploads\\frames\\frame9.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "193630"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"RgjRooJsFeH2O0XJzXwlYc9dZQ9ElKIMF/e5TAV5PsA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 08 Mar 2025 02:20:01 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ymgecwujmt"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/frames/frame9.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-RgjRooJsFeH2O0XJzXwlYc9dZQ9ElKIMF/e5TAV5PsA="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/severence short clip movie - Google Search - Google Chrome 2025-03-08 02-00-55.mp4",
+      "AssetFile": "C:\\Users\\nephi\\OneDrive\\Desktop\\C#\\projects\\MovieFinder\\wwwroot\\uploads\\severence short clip movie - Google Search - Google Chrome 2025-03-08 02-00-55.mp4",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "14847907"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "video/mp4"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"+RN2RFaRiKzDPF+XlMoBC6khev8KL4xN1YXIGh+nCvk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 08 Mar 2025 02:19:58 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-+RN2RFaRiKzDPF+XlMoBC6khev8KL4xN1YXIGh+nCvk="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/severence short clip movie - Google Search - Google Chrome 2025-03-08 02-00-55.vuje8mvqvd.mp4",
+      "AssetFile": "C:\\Users\\nephi\\OneDrive\\Desktop\\C#\\projects\\MovieFinder\\wwwroot\\uploads\\severence short clip movie - Google Search - Google Chrome 2025-03-08 02-00-55.mp4",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "14847907"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "video/mp4"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"+RN2RFaRiKzDPF+XlMoBC6khev8KL4xN1YXIGh+nCvk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 08 Mar 2025 02:19:58 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "vuje8mvqvd"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/severence short clip movie - Google Search - Google Chrome 2025-03-08 02-00-55.mp4"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-+RN2RFaRiKzDPF+XlMoBC6khev8KL4xN1YXIGh+nCvk="
+        }
+      ]
+    }
+  ]
+}
