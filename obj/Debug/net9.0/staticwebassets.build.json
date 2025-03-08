@@ -1,0 +1,20 @@
+{
+  "Version": 1,
+  "Hash": "QTosNSEBtaQzj2ABVpTDsSJJu3X+0wSN2/pAEBsiUo4=",
+  "Source": "MovieFinder",
+  "BasePath": "_content/MovieFinder",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "MovieFinder\\wwwroot",
+      "Source": "MovieFinder",
+      "ContentRoot": "C:\\Users\\nephi\\OneDrive\\Desktop\\C#\\projects\\MovieFinder\\wwwroot\\",
+      "BasePath": "_content/MovieFinder",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [],
+  "Endpoints": []
+}
